@@ -1,0 +1,7 @@
+# Datos persistentes de AdGuard (ignorar todo el contenido de estas carpetas)
+workdir/
+confdir/
+
+# Archivos de sistema
+.DS_Store
+*.log
