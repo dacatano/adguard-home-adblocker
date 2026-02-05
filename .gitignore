@@ -5,3 +5,4 @@ confdir/
 # Archivos de sistema
 .DS_Store
 *.log
+touch
